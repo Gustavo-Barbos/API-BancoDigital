@@ -525,6 +525,6 @@ Esse endpoint lista as transações realizadas de uma conta específica.
 
 ## :writing_hand: Dados do Projeto
 
-<img src="https://img.shields.io/github/stars/Gustavo-Barbos/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/Gustavo-Barbos/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11?style=social">
-<img src="<https://img.shields.io/github/issues-closed/Gustavo-Barbos/desafio-backend-modulo-02-sistema-bancario-b2b-ifoo>
+<img src="https://img.shields.io/github/stars/Gustavo-Barbos/API-BancoDigital?style=social">
+<img src="https://img.shields.io/github/issues-pr-raw/Gustavo-Barbos/API-BancoDigital?style=social">
+<img src="<https://img.shields.io/github/issues-closed/Gustavo-Barbos/API-BancoDigital?style=social">
